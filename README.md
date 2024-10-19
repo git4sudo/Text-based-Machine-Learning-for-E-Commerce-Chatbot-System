@@ -28,7 +28,7 @@ The system is designed to process user inputs, extract key features, and provide
 2. **Association and Filtering:** Uses Market Basket Analysis (MBA) to find associations between product features.
 3. **Relevance:** Filters and ranks recommendations using cosine similarity and KeyBert to ensure recommendations are both diverse and relevant.
 
-![System Architecture](link_to_system_architecture_diagram)
+![System Architecture](link_to_system_architecture_diagram.png)
 
 ## Methodology
 ### Feature Extraction
